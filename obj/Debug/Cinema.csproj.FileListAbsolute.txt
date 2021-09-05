@@ -1,0 +1,7 @@
+C:\Users\Igor\source\repos\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Igor\source\repos\Cinema\bin\Debug\Cinema.exe
+C:\Users\Igor\source\repos\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Igor\source\repos\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Cinema\obj\Debug\Cinema.exe
+C:\Users\Igor\source\repos\Cinema\obj\Debug\Cinema.pdb
